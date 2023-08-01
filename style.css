@@ -5,3 +5,18 @@
 .divs-facilidades {
     width: 325px;
 }
+
+.btn-primary {
+    background-color: #9353FF;
+    border: #9353FF;
+    
+}
+
+.btn-primary:hover {
+    background-color: #a370fc;
+    
+}
+
+.custom-icon {
+    color: #daff01;
+}
